@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GetMyText - OCR App</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="ocr_text">OCR Text:</string>
 </resources>
